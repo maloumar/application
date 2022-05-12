@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">katarina-s-coiffure</string>
+    <string name="button">Button</string>
+    <string name="rendez_vous">Rendez-vous</string>
+    <string name="produits">Produits</string>
+    <string name="coiffure">Coiffure</string>
+    <string name="offre_emploes">offre emploes</string>
+</resources>
